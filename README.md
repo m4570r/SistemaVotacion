@@ -22,10 +22,6 @@ Para instalar y utilizar la aplicación, primero clone el repositorio a su máqu
 
 ---
 
-# Sistema de Votación Electrónica
-
-El Sistema de Votación Electrónica es una aplicación que permite a los usuarios emitir sus votos de manera electrónica en diferentes elecciones. El proyecto proporciona una plataforma segura y eficiente para realizar procesos de votación, eliminando la necesidad de votaciones presenciales en papel.
-
 ## Requisitos
 * PHP 8.2.8
 * Base de Datos ejemploVotoBD, versión: 10.4.24-MariaDB
