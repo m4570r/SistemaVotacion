@@ -5,9 +5,9 @@ Tecnologías
 
 ## La aplicación utiliza las siguientes tecnologías:
 
-Front-end: HTML, CSS, JavaScript, jQuery
-Back-end: PHP
-Base de datos: MySQL
+* Front-end: HTML, CSS, JavaScript, jQuery
+* Back-end: PHP
+* Base de datos: MySQL
 
 ## Características
 
@@ -19,8 +19,6 @@ Registro de votantes: La aplicación permite a los votantes registrarse introduc
 ## Datos Técnicos
 
 Para instalar y utilizar la aplicación, primero clone el repositorio a su máquina local utilizando git clone. A continuación, importe la base de datos a su servidor MySQL. Puede hacer esto utilizando la línea de comandos o una interfaz gráfica como phpMyAdmin.
-
-Aquí tienes el contenido reformateado para el `README.md`:
 
 ---
 
