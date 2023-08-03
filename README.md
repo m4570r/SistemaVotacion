@@ -38,6 +38,14 @@ Para instalar y utilizar la aplicación, primero clone el repositorio a su máqu
 8. Acceder al proyecto desde el navegador web ingresando la URL `http://localhost/<nombre del directorio>/index.php`.
 9. ¡Listo! Ahora puedes explorar y utilizar el proyecto.
 
+---
+# URL para Visitar un ejemplo del sitio
+
+```
+http://181.172.236.176/proyecto_votos/index.php
+```
+---
+
 ## Notas adicionales
 Si encuentras algún problema durante la instalación o el uso del Sistema de Votación Electrónica, contáctanos en mgonzalez.gnu@gmail.com para recibir asistencia técnica.
 
